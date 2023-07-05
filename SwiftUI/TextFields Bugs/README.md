@@ -24,7 +24,7 @@ Even if you leave the screen, `TextField`s will be still in memory. What's even 
 2. Use just one `TextField` per screen ¯\_(ツ)_/¯.
 
 #### 📸 Screenshot after leaving the screen
-![image](https://github.com/wojciech-kulik/Swift-Crazy-iBugs/assets/3128467/d1acac2a-96f7-4ef6-8709-cd25fb7411f8)
+<img src="https://github.com/wojciech-kulik/Swift-Crazy-iBugs/assets/3128467/d1acac2a-96f7-4ef6-8709-cd25fb7411f8" width="350" />
 
 <br/><br/>
 
@@ -61,7 +61,8 @@ There are multiple ways not to fall into this specific bug:
 6. After leaving the screen, tap on a different text field. The keyboard will release the reference to the previous one.
 
 #### 📸 Screenshot after leaving the screen
-<img width="800" alt="memory graph" src="https://github.com/wojciech-kulik/SwiftUI-TextField-Bugs/assets/3128467/cb003002-52bf-4d85-a5bc-0bcb37571b3b">
+<img src="https://github.com/wojciech-kulik/Swift-Crazy-iBugs/assets/3128467/725c1565-6bee-4a16-9000-3d7bdc4f4183" width="800" />
+
 
 <br/><br/>
 
