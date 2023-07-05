@@ -24,7 +24,7 @@ Even if you leave the screen, `TextField`s will be still in memory. What's even 
 2. Use just one `TextField` per screen ¯\_(ツ)_/¯.
 
 #### 📸 Screenshot after leaving the screen
-<img width="278" alt="memory" src="https://github.com/wojciech-kulik/SwiftUI-TextField-Bugs/assets/3128467/f77465d0-2efc-479b-af1e-3f6fd03193eb">
+![image](https://github.com/wojciech-kulik/Swift-Crazy-iBugs/assets/3128467/d1acac2a-96f7-4ef6-8709-cd25fb7411f8)
 
 <br/><br/>
 
