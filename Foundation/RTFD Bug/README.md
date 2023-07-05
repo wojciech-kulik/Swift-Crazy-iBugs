@@ -17,7 +17,7 @@ macOS 13.4 (22F66)
 There is a few bytes difference between those two. 
 It happens only if you include some images in the RTFD.
 
-![file](https://github.com/wojciech-kulik/Swift-RTFD-Bug/assets/3128467/ac981e21-6f0b-4888-92d2-c92cd06da28f)
+![image](https://github.com/wojciech-kulik/Swift-Crazy-iBugs/assets/3128467/89a58cc0-f46f-46f0-8b85-d7e0520f3c3d)
 
 It looks like the current time is stored for image attachements. Probably a creation/modification date?
 Every time I run this code the byte that differs is increased like a timer.
