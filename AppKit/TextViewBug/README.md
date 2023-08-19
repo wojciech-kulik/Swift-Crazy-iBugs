@@ -3,7 +3,7 @@ This repository contains a `NSTextView` bug that I managed to nail down.
 For some reason, `NSTextView` rendering is lagging when using `NSTextView` with TextKit 1.
 
 #### 📸 Video
-<img width="800" alt="memory graph" src="https://github.com/wojciech-kulik/SwiftUI-TextField-Bugs/assets/3128467/cb003002-52bf-4d85-a5bc-0bcb37571b3b">
+https://github.com/wojciech-kulik/Swift-Crazy-iBugs/assets/3128467/535c0fdb-0fb7-45f5-a43a-91d6adb79d94
 
 The weird thing that if I place the cursor in non-empty line, the issue is not reproducible anymore.
 <br/><br/>
