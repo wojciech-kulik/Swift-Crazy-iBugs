@@ -29,4 +29,4 @@ Use TextKit 2 by using this initializer: `NSTextView(usingTextLayoutManager: tru
 Remember that accessing any TextKit 1 fields like `NSTextView.layoutManager` will switch the `NSTextView` back to TextKit 1.
 
 ## 📧 Next steps
-These issue has been reported to Apple: #FB12224488.
+These issue has been reported to Apple: #FB13006995.
