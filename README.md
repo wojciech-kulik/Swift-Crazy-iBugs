@@ -11,6 +11,9 @@ Set of crazy bugs that I discovered on iOS, iPadOS, and macOS.
 ### Swift Compiler Bugs
 1. [Memory Leak When Using Enums and Switch](Swift%20Compiler/Enum%20and%20Switch%20Memory%20Leak)
 
+### AppKit Bugs
+1. [NSTextView Rendering Glitch](https://github.com/wojciech-kulik/Swift-Crazy-iBugs/tree/main/AppKit/TextViewBug)
+
 <br/>
 
 ## 👨🏻‍💻 Snippety 👨🏻‍💻
